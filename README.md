@@ -2,10 +2,10 @@
 
 ## Setup development environment on a new MacOS
 
-1. ```git clone https://github.com/enricogenauck/dotfiles.git ~/.dotfiles```
+1. Run ```git clone https://github.com/enricogenauck/dotfiles.git ~/.dotfiles```
 1. [XCode](https://itunes.apple.com/de/app/xcode/id497799835?mt=12&uo=4)
 1. Run XCode and accept the license
-1. Run ````xcode-select --install```
+1. Run ```xcode-select --install```
 1. Run ```script/bootstrap```
 
 - [MockSMTP](https://itunes.apple.com/de/app/mocksmtp/id423535515?mt=12&uo=4)
