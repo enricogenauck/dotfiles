@@ -1,0 +1,30 @@
+#!/bin/bash -v
+
+# Homebrew
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" </dev/null
+brew doctor
+brew install caskroom/cask/brew-cask
+brew tap caskroom/versions
+
+# brew cask install iterm2
+
+# brew install git
+# brew install rbenv
+# brew install autojump
+# brew install wget
+# brew install mtr
+
+
+# brew cask install sublime-text3
+# brew cask install alfred
+# brew cask install textexpander
+# brew cask install dropbox
+# brew cask install skype
+# brew cask install sourcetree
+# brew cask install vagrant
+# brew cask install anvil
+# brew cask install google-chrome
+# brew cask install virtualbox
+
+chsh -s /bin/zsh
+ln -s ~/.dotfiles/.zshrc .
