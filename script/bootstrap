@@ -2,10 +2,11 @@
 
 DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
 
-sh "$DIR/bootstrap_steps/xcode-tools.sh"
-sh "$DIR/bootstrap_steps/softwareupdate.sh"
-sh "$DIR/bootstrap_steps/homebrew.sh"
-sh "$DIR/bootstrap_steps/sublime-text3.sh"
+$DIR/bootstrap_steps/xcode-tools.sh
+$DIR/bootstrap_steps/softwareupdate.sh
+$DIR/bootstrap_steps/homebrew.sh
+$DIR/bootstrap_steps/sublime-text3.sh
+brew cask install virtualbox
 brew cask install vagrant
 
 set +x
@@ -14,10 +15,10 @@ echo "###### Unattended install from now on..."
 echo "######"
 set -x
 
-sh "$DIR/bootstrap_steps/git-config.sh"
-sh "$DIR/bootstrap_steps/zsh.sh"
-sh "$DIR/bootstrap_steps/ssh-keygen.sh"
-sh "$DIR/bootstrap_steps/desktop-background.sh"
+$DIR/bootstrap_steps/git-config.sh
+$DIR/bootstrap_steps/zsh.sh
+$DIR/bootstrap_steps/ssh-keygen.sh
+$DIR/bootstrap_steps/desktop-background.sh
 brew cask install iterm2
 brew install rbenv
 brew install autojump
@@ -30,4 +31,3 @@ brew cask install skype
 brew cask install sourcetree
 brew cask install anvil
 brew cask install google-chrome
-brew cask install virtualbox
