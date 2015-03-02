@@ -24,12 +24,18 @@ $DIR/bootstrap_steps/desktop-background.sh
 brew cask install iterm2
 open $DIR/../themes/Solarized\ Light.itermcolors
 
+brew cask install dropbox
+open -a Dropbox
+
+brew cask install textexpander
+open -a TextExpander
+
+brew cask install alfred
+open -a "Alfred 2"
+
 brew install autojump
 brew install wget
 brew install mtr
-brew cask install alfred
-brew cask install textexpander
-brew cask install dropbox
 brew cask install skype
 brew cask install sourcetree
 brew cask install anvil
