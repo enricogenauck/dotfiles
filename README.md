@@ -23,9 +23,3 @@ Setup my personal dotfiles and development environment for MacOS
 Open iTerm 2, open Preferences, click on the "Profiles" (formerly Addresses, formerly Bookmarks) icon in the preferences toolbar, then select the "colors" tab. Click on the "load presets" and select "import...". Select the Solaris Light or Dark theme file.
 
 You have now loaded the Solarized color presets into iTerm 2, but haven't yet applied them. To apply them, simply select an existing profile from the profile list window on the left, or create a new profile. Then select the Solarized Dark or Solarized Light preset from the "Load Presets" drop down.
-
-## ZSH and Textmate Setup
-    $ cd ~
-    $ ln -s $DOTFILES/.zsh .
-    $ ln -s $DOTFILES/.zsh_rc .
-    $ ln -s $DOTFILES/.tm_properties .
