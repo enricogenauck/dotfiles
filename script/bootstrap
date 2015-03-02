@@ -16,6 +16,7 @@ echo "###### Unattended install from now on..."
 echo "######"
 set -x
 
+sh "$DIR/bootstrap_steps/ssh-keygen.sh"
 brew cask install iterm2
 brew install rbenv
 brew install autojump
