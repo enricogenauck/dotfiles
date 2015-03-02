@@ -4,8 +4,8 @@ Setup my personal dotfiles and development environment for MacOS
 ## First steps
 1. Install [XCode](https://itunes.apple.com/de/app/xcode/id497799835?mt=12&uo=4)
 1. Run XCode and accept the license
-1. Run ```git clone https://github.com/enricogenauck/dotfiles.git ~/.dotfiles```
-1. Run ```script/bootstrap``` from ```~/.dotfiles``
+1. Run `git clone https://github.com/enricogenauck/dotfiles.git ~/.dotfiles`
+1. Run `~/.dotfiles/script/bootstrap`
 1. Install from the App Store:
     - [MockSMTP](https://itunes.apple.com/de/app/mocksmtp/id423535515?mt=12&uo=4)
     - [Clarify 2](https://itunes.apple.com/de/app/clarify-2/id867687197?mt=12&uo=4)
