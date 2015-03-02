@@ -1,2 +1,3 @@
-set -x
+#!/bin/bash -v
+
 xcode-select --install

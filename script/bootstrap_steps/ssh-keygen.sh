@@ -1,3 +1,5 @@
+#!/bin/bash -v
+
 set -x
 
 mkdir -p ~/.ssh
