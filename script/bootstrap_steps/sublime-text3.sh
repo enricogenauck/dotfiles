@@ -1,3 +1,4 @@
+set -x
 brew cask install sublime-text3
 
 DOTFILES=~/.dotfiles/Sublime\ Text\ 3
