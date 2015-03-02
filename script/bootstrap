@@ -1,10 +1,10 @@
 #!/bin/bash -v
 
-# Homebrew
-ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" </dev/null
-brew doctor
-brew install caskroom/cask/brew-cask
-brew tap caskroom/versions
+DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
+
+sh "$DIR/bootstrap_steps/softwareupdate.sh"
+sh "$DIR/bootstrap_steps/zsh.sh"
+sh "$DIR/bootstrap_steps/homebrew.sh"
 
 # brew cask install iterm2
 
@@ -25,6 +25,3 @@ brew tap caskroom/versions
 # brew cask install anvil
 # brew cask install google-chrome
 # brew cask install virtualbox
-
-chsh -s /bin/zsh
-ln -s ~/.dotfiles/.zshrc .
