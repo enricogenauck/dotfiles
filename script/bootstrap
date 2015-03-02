@@ -40,3 +40,4 @@ brew cask install skype
 brew cask install sourcetree
 brew cask install anvil
 brew cask install google-chrome
+brew cask install marked

@@ -14,7 +14,6 @@ Setup my personal dotfiles and development environment for MacOS
     - [Live Reload Extensions](http://help.livereload.com/kb/general-use/browser-extensions)
     - [Soulver](https://itunes.apple.com/de/app/soulver/id413965349?mt=12&uo=4)
     - [Dash (Docs & Snippets)](https://itunes.apple.com/de/app/dash-docs-snippets/id458034879?mt=12&uo=4)
-    - Marked (only available for redownload)
     - [Forklift](https://itunes.apple.com/de/app/forklift-file-manager-ftp/id412448059?mt=12&uo=4)
     - [Pixelstick](https://itunes.apple.com/de/app/pixelstick/id415158530?mt=12&uo=4)
     - [The Unarchiver](https://itunes.apple.com/de/app/the-unarchiver/id425424353?mt=12&uo=4)
