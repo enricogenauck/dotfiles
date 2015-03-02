@@ -2,10 +2,12 @@
 
 DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
 
+sh "$DIR/bootstrap_steps/xcode-tools.sh"
 sh "$DIR/bootstrap_steps/softwareupdate.sh"
 sh "$DIR/bootstrap_steps/zsh.sh"
 sh "$DIR/bootstrap_steps/homebrew.sh"
 sh "$DIR/bootstrap_steps/sublime-text3.sh"
+
 
 # brew cask install iterm2
 
