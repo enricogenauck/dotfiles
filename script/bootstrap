@@ -7,18 +7,14 @@ sh "$DIR/bootstrap_steps/softwareupdate.sh"
 sh "$DIR/bootstrap_steps/zsh.sh"
 sh "$DIR/bootstrap_steps/homebrew.sh"
 sh "$DIR/bootstrap_steps/sublime-text3.sh"
-
+sh "$DIR/bootstrap_steps/git-config.sh"
 
 # brew cask install iterm2
-
-# brew install git
 # brew install rbenv
 # brew install autojump
 # brew install wget
 # brew install mtr
 
-
-# brew cask install sublime-text3
 # brew cask install alfred
 # brew cask install textexpander
 # brew cask install dropbox
