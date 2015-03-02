@@ -22,7 +22,7 @@ $DIR/bootstrap_steps/ssh-keygen.sh
 $DIR/bootstrap_steps/desktop-background.sh
 
 brew cask install iterm2
-open $DIR/themes/Solarized\ Light.itermcolors
+open $DIR/../themes/Solarized\ Light.itermcolors
 
 brew install autojump
 brew install wget
