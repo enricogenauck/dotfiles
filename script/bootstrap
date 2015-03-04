@@ -36,6 +36,7 @@ open -a "Alfred 2"
 brew install autojump
 brew install wget
 brew install mtr
+brew cask install sequel-pro
 brew cask install skype
 brew cask install sourcetree
 brew cask install anvil
