@@ -16,7 +16,7 @@ echo "###### Unattended install from now on..."
 echo "######"
 set -x
 
-brew install rbenv
+brew install rbenv ruby-build
 $DIR/bootstrap_steps/git-config.sh
 $DIR/bootstrap_steps/ssh-keygen.sh
 $DIR/bootstrap_steps/desktop-background.sh
