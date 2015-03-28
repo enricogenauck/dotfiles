@@ -36,6 +36,8 @@ open -a "Alfred 2"
 brew install autojump
 brew install wget
 brew install mtr
+brew install ctags
+brew install rbenv-ctags
 brew cask install sequel-pro
 brew cask install skype
 brew cask install sourcetree

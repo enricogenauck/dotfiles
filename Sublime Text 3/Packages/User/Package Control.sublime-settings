@@ -4,6 +4,7 @@
 	],
 	"installed_packages":
 	[
+		"CTags",
 		"GitGutter",
 		"Package Control",
 		"Ruby Markers",
