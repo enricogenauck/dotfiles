@@ -12,7 +12,7 @@
 		".yardoc",
 		".bundle"
 	],
-	"font_size": 14.0,
+	"font_size": 15.0,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -21,6 +21,5 @@
 	"remember_open_files": false,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"word_separators": "./\\()\"'-_:,.;<>~!@#$%^&*|+=[]{}`~?"
+	"trim_trailing_white_space_on_save": true
 }

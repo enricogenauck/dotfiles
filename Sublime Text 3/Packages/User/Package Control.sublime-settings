@@ -4,9 +4,12 @@
 	],
 	"installed_packages":
 	[
+		"Ansible",
+		"CTags",
 		"GitGutter",
 		"Package Control",
 		"Ruby Markers",
+		"SideBarEnhancements",
 		"Solarized Color Scheme",
 		"TrailingSpaces"
 	]
