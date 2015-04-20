@@ -4,6 +4,7 @@
 	],
 	"installed_packages":
 	[
+		"Ansible",
 		"CTags",
 		"GitGutter",
 		"Package Control",
