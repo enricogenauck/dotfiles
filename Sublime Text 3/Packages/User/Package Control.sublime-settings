@@ -6,11 +6,13 @@
 	[
 		"Ansible",
 		"CTags",
+		"Git",
 		"GitGutter",
 		"Package Control",
 		"Ruby Markers",
 		"SideBarEnhancements",
 		"Solarized Color Scheme",
+		"Table Editor",
 		"TrailingSpaces"
 	]
 }
