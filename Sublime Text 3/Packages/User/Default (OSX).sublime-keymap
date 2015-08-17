@@ -1,0 +1,4 @@
+[
+  { "keys": ["super+alt++"], "command": "fold" },
+  { "keys": ["super+alt+#"], "command": "unfold" }
+]
