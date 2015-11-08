@@ -1,0 +1,1 @@
+{".platform-darwin atom-workspace":{"cmd-;":"hashrocket:run","cmd-:":"hashrocket:insert","cmd-'":"hashrocket:insertRun","cmd-alt-;":"hashrocket:watchToggle"},".platform-win32 atom-workspace, .platform-linux atom-workspace":{"ctrl-;":"hashrocket:run","alt-;":"hashrocket:insert","ctrl-alt-;":"hashrocket:insertRun","ctrl-w":"hashrocket:watchToggle"}}
