@@ -45,3 +45,4 @@ brew cask install anvil
 brew cask install google-chrome
 brew cask install marked
 brew cask install the-unarchiver
+brew cask install atom
