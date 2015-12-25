@@ -421,22 +421,27 @@
 		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
 		hAErATGG
 		</data>
-		<string>302</string>
+		<string>319</string>
 	</array>
 	<key>NSTableView Hidden Columns KeyBingingTable</key>
 	<array/>
 	<key>NSTableView Sort Ordering KeyBingingTable</key>
 	<array/>
+	<key>NSToolbar Configuration com.apple.NSColorPanel</key>
+	<dict>
+		<key>TB Is Shown</key>
+		<integer>1</integer>
+	</dict>
 	<key>NSWindow Frame NSColorPanel</key>
 	<string>693 338 214 309 0 0 1440 878 </string>
 	<key>NSWindow Frame Preferences</key>
-	<string>199 188 924 485 0 0 1440 877 </string>
+	<string>199 188 605 485 0 0 1440 877 </string>
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>99 293 592 584 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>25 105 1032 451 0 0 1440 877 </string>
+	<string>216 101 1151 473 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>1 419 962 451 0 0 1440 877 </string>
+	<string>1 419 570 451 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
 	<string>137 248 570 451 0 0 1440 878 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
@@ -1043,7 +1048,7 @@
 				<key>editor</key>
 				<string>com.sublimetext.2</string>
 				<key>text</key>
-				<string>/usr/local/bin/subl \1:\2</string>
+				<string>/usr/local/bin/atom \1:\2</string>
 			</dict>
 			<key>Send Code When Idle</key>
 			<false/>
@@ -1176,6 +1181,10 @@
 			<string>/Users/genauck</string>
 		</dict>
 	</array>
+	<key>NoSyncTimeOfLastPromo</key>
+	<real>453318416.802715</real>
+	<key>NoSyncTimeOfLastPromoDownload</key>
+	<real>468966936.22352201</real>
 	<key>OnlyWhenMoreTabs</key>
 	<true/>
 	<key>OpenArrangementAtStartup</key>
@@ -1236,11 +1245,11 @@
 	<key>SUEnableAutomaticChecks</key>
 	<true/>
 	<key>SUFeedURL</key>
-	<string>http://iterm2.com/appcasts/testing.xml</string>
+	<string>https://iterm2.com/appcasts/testing.xml</string>
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2015-03-27T20:13:09Z</date>
+	<date>2015-11-12T04:29:02Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>ShowBookmarkName</key>
@@ -1288,6 +1297,6 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>2.0.0.20141103</string>
+	<string>2.1.4</string>
 </dict>
 </plist>
