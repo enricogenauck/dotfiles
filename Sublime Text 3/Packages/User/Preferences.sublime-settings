@@ -18,11 +18,23 @@
 	[
 		"Vintage"
 	],
+	"paths":
+	{
+		"linux":
+		[
+		],
+		"osx":
+		[
+			"~/.rbenv/shims"
+		],
+		"windows":
+		[
+		]
+	},
 	"remember_open_files": false,
 	"rulers":
 	[
-		80,
-		100
+		80
 	],
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,

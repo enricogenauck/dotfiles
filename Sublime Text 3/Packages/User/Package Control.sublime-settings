@@ -12,9 +12,12 @@
 		"GitGutter",
 		"Origami",
 		"Package Control",
+		"PlainTasks",
 		"Ruby Markers",
 		"SideBarEnhancements",
 		"Solarized Color Scheme",
+		"SublimeLinter",
+		"SublimeLinter-rubocop",
 		"Table Editor",
 		"TrailingSpaces"
 	]
