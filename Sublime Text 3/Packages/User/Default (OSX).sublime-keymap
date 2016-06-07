@@ -1,6 +1,6 @@
 [
-  { "keys": ["super+alt+#"], "command": "unfold" },
-  { "keys": ["super+alt++"], "command": "fold" },
+  { "keys": ["ctrl+shift+8"], "command": "fold" },
+  { "keys": ["ctrl+shift+9"], "command": "unfold" },
   { "keys": ["ctrl+up"], "command": "swap_line_up" },
   { "keys": ["ctrl+down"], "command": "swap_line_down" },
 ]
