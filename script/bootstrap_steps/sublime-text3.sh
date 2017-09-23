@@ -1,14 +1,13 @@
 #!/bin/bash -v
 
-brew cask install sublime-text3
+brew cask install sublime-text
 
 DOTFILES=~/.dotfiles/Sublime\ Text\ 3
-CONFIG=~/Library/Application\ Support/Sublime\ Text\ 3
+CONFIG=~/Library/Application\ Support/Sublime\ Text\ 3/Packages
 
 mkdir -p "$CONFIG"
 
-ln -s "$DOTFILES/Installed Packages" "$CONFIG/Installed Packages"
-ln -s "$DOTFILES/Packages" "$CONFIG/Packages"
-ln -s "$DOTFILES/Pristine Packages" "$CONFIG/Pristine Packages"
+ln -s "$DOTFILES/Packages/User" "$CONFIG"
 
+sudo gem install fastri
 sudo gem install rcodetools
