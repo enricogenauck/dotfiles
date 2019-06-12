@@ -4,5 +4,6 @@
   { "keys": ["ctrl+up"], "command": "swap_line_up" },
   { "keys": ["ctrl+down"], "command": "swap_line_down" },
   { "keys": ["super+i"], "command": "copy_relative_path" },
-  { "keys": ["super+shift+i"], "command": "reveal_in_side_bar" }
+  { "keys": ["super+shift+i"], "command": "reveal_in_side_bar" },
+  { "keys": ["super+shift+o"], "command": "open_url", "args": { "show_menu": false } },
 ]
