@@ -1,3 +1,9 @@
 {
   "rspec_add_to_path": "$HOME/.rbenv/shims",
+  "check_for_rvm": false,
+  "panel_settings": {
+    "encoding": "utf-8",
+    "syntax": "Packages/TestRSpec/themes/TestConsole.tmLanguage",
+    "color_scheme": "Packages/TestRSpec/themes/Solarized (dark).tmTheme",
+  },
 }

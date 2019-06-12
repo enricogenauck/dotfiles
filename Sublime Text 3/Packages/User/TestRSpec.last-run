@@ -6,7 +6,7 @@
 		{
 		},
 		"file_regex": "([^ ]*\\.rb):?(\\d*)",
-		"shell_cmd": "(export PATH=$HOME/.rbenv/shims:$PATH; cd /Users/genauck/Documents/xing/payment-billing && ./bin/rspec spec/models/payments/users/account/address_spec.rb:47)",
+		"shell_cmd": "(export PATH=$HOME/.rbenv/shims:$PATH; cd /Users/genauck/Documents/xing/payment-billing && ./bin/rspec spec/models/payments/users/account/address_spec.rb:9)",
 		"syntax": "Packages/TestRSpec/themes/TestConsole.tmLanguage",
 		"working_dir": "/Users/genauck/Documents/xing/payment-billing"
 	}
