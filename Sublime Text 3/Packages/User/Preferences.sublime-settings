@@ -1,6 +1,27 @@
 {
-	"color_scheme": "Packages/Solarized Color Scheme/Solarized (light).tmTheme",
-	"draw_white_space": "all",
+	"binary_file_patterns":
+	[
+		"node_modules/",
+		"public/assets",
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		"*.svg",
+		"*.otf",
+		"log/"
+	],
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (light).sublime-color-scheme",
+	"draw_white_space": "selection",
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -10,14 +31,22 @@
 		"tmp/cache",
 		".sass-cache",
 		".yardoc",
-		".bundle"
+		".bundle",
+		"coverage"
 	],
-	"font_size": 18.0,
+	"font_size": 17.0,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"linters":
+	{
+		"rubocop":
+		{
+			"use_bundle_exec": true
+		}
+	},
 	"paths":
 	{
 		"linux":

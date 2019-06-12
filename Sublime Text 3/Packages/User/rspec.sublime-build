@@ -1,0 +1,5 @@
+{
+  "shell_cmd": ["bundle", "exec", "rspec", "$file"],
+  "working_dir": "$folder"
+
+}

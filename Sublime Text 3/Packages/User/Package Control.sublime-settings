@@ -5,19 +5,22 @@
 	],
 	"installed_packages":
 	[
+		"All Autocomplete",
 		"Ansible",
+		"Babel",
+		"Better CoffeeScript",
+		"Copy Relative Path",
 		"CTags",
+		"Dockerfile Syntax Highlighting",
 		"Fix Mac Path",
-		"Git",
-		"GitGutter",
 		"Origami",
 		"Package Control",
-		"PlainTasks",
 		"Ruby Markers",
 		"SideBarEnhancements",
 		"Solarized Color Scheme",
 		"SublimeLinter",
 		"SublimeLinter-rubocop",
+		"Sublimerge 3",
 		"Table Editor",
 		"TrailingSpaces"
 	]
