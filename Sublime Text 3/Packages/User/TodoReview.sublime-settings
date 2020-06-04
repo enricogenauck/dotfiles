@@ -1,0 +1,16 @@
+{
+  "patterns": {
+    "TODO": "TODO[\\s]*?:[\\s]*(?P<todo>.*)$",
+    "NOTE": "NOTE[\\s]*?:[\\s]*(?P<note>.*)$",
+    "FIXME": "FIX ?ME[\\s]*?:[\\s]*(?P<fixme>.*)$",
+    "TASK": "TASK[\\s]*?:[\\s]*(?P<task>.*)$",
+    "CHANGED": "CHANGED[\\s]*?:[\\s]*(?P<changed>.*)$"
+  },
+  "patterns_weight": {
+  },
+  "exclude_folders": [
+    "*.git*",
+    "tmp*",
+    "log"
+  ],
+}

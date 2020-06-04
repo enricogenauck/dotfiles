@@ -11,6 +11,7 @@
 		"Better CoffeeScript",
 		"Copy Relative Path",
 		"CTags",
+		"DashDoc",
 		"Dockerfile Syntax Highlighting",
 		"Fix Mac Path",
 		"Open Search Result",
@@ -18,14 +19,17 @@
 		"Origami",
 		"Package Control",
 		"PackageResourceViewer",
+		"RuboCop",
 		"Ruby Markers",
 		"SideBarEnhancements",
+		"Smart Path Copy",
 		"Solarized Color Scheme",
 		"SublimeLinter",
 		"SublimeLinter-rubocop",
 		"Sublimerge 3",
 		"Table Editor",
 		"TestRSpec",
+		"TodoReview",
 		"TrailingSpaces"
 	]
 }

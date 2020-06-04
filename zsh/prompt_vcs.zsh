@@ -12,4 +12,4 @@ precmd () {
 
     vcs_info
 }
-PROMPT='%F{blue}%n@%m %c${vcs_info_msg_0_}%F{blue} %(?/%F{blue}/%F{red})%% %{$reset_color%}'
+PROMPT='%F{blue}%c${vcs_info_msg_0_}%F{blue} %(?/%F{blue}/%F{red})%% %{$reset_color%}'

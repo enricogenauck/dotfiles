@@ -6,7 +6,7 @@
 		{
 		},
 		"file_regex": "([^ ]*\\.rb):?(\\d*)",
-		"shell_cmd": "(export PATH=$HOME/.rbenv/shims:$PATH; cd /Users/genauck/Documents/xing/payment-billing && ./bin/rspec spec/lib/rubocop/cops/rails/incorrect_namespace_spec.rb)",
+		"shell_cmd": "(export PATH=$HOME/.rbenv/shims:$PATH; cd /Users/genauck/Documents/xing/payment-billing && ./bin/rspec spec/lib/softlogin_contract_cleanup_spec.rb)",
 		"syntax": "Packages/TestRSpec/themes/TestConsole.tmLanguage",
 		"working_dir": "/Users/genauck/Documents/xing/payment-billing"
 	}

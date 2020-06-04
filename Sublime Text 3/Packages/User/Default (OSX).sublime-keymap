@@ -6,4 +6,6 @@
   { "keys": ["super+i"], "command": "copy_relative_path" },
   { "keys": ["super+shift+i"], "command": "reveal_in_side_bar" },
   { "keys": ["super+shift+o"], "command": "open_url", "args": { "show_menu": false } },
+  { "keys": ["super+ctrl+g"], "command": "goto_definition" },
+  { "keys": ["super+shift+h"], "command": "dash_doc"},
 ]

@@ -32,9 +32,10 @@
 		".sass-cache",
 		".yardoc",
 		".bundle",
-		"coverage"
+		"coverage",
+		"tmp"
 	],
-	"font_size": 15.0,
+	"font_size": 20.0,
 	"highlight_line": true,
 	"ignored_packages":
 	[
